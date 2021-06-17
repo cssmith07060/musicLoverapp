@@ -23,7 +23,7 @@ let bootyBopSongs = [
 {songName: "Lose me", pic:"<image>", demoURL : "tosong" }, 
 {songName: "raga muffin", pic:"<image>", demoURL :"tosong" }
 ];
-
+//playlist 3
 let playList3 = {name: "bootyBop", pic:"<img>", songList: bootyBopSongs }
 const fakeData = [playList1,
 playList2, playList3]
